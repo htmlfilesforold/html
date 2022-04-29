@@ -21,6 +21,7 @@ html, body{
     background-size:cover;
     background-image: url('g3393.png');
     float: left;
+    overflow: hidden;
 
  }
 
